@@ -2,8 +2,8 @@ header {
     font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
   font-size: 48px;
-  color: aqua;
-  background-color: black;
+  color: #fff500;
+  background-color: #2b3f51;
   border-style: solid;
   padding: 12px;
 }
@@ -18,10 +18,10 @@ body {
   background-color: azure;
 }
 #rectangle1 {
-  background-color: #64dfdf;
+  background-color: #e55d2a;
 }
 #rectangle2 {
-  background-color: #80ffdb;
+  background-color: #3b99ed;
 }
 .square {
   display: inline-block;
@@ -76,12 +76,12 @@ img {
 p {
   font-size: 24px;
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #161d6f;
+  color: #2b3f51;
 }
 h1, h2 {
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
-  color: #161d6f;
+  color: #2b3f51;
 }
 .wrapper {
   width: 360px;
@@ -107,7 +107,7 @@ a.button:hover {
   background: #d39cf8;
 }
 nav {
-  background-color: #b8b5ff;
+  background-color: #fd7f1c;
   padding: 12px;
   text-align: center;
 }
@@ -129,7 +129,7 @@ nav {
   font-size: 24px;
 }
   .navcolor {
- color: #6930c3;
+ color: black;
   }
   a:hover {
     color: #5a78f1;
