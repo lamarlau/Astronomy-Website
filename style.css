@@ -102,6 +102,7 @@ main {
   text-decoration: none;
   margin: 12px;
   font-family: 'Open Sans Condensed', sans-serif;
+  color: #292105;
 }
 a.button:hover {
   background: #fff500;
@@ -129,13 +130,13 @@ nav {
   font-size: 24px;
 }
   .navcolor {
- color: black;
+ color: #292105;
   }
   a:hover {
-    color: #2b3f51;
+    color: #292105;
   }
   .textoverimage {
     position: relative;
-    color: aquamarine;
+    color: #00BDFF;
     top: 4rem;
   }
