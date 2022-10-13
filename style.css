@@ -6,12 +6,14 @@ header {
   background-color: #292105;
   border-style: solid;
   padding: 12px;
+  display: flex;
 }
 .rectangle {
   margin: 0;
   width: 100%;
   padding: 24px;
   text-align: center;
+  display: flex;
 }
 body {
   margin: 0px;
@@ -111,6 +113,7 @@ nav {
   background-color: #fd7f1c;
   padding: 12px;
   text-align: center;
+  display: flex;
 }
 .buttons {
   display: flex;
