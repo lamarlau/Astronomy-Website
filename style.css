@@ -8,6 +8,12 @@ header {
   padding: 12px;
   display: flex;
 }
+nav {
+  background-color: #fd7f1c;
+  padding: 12px;
+  text-align: center;
+  display: flex;
+}
 .rectangle {
   margin: 0;
   width: 100%;
@@ -108,12 +114,6 @@ main {
 }
 a.button:hover {
   background: #fff500;
-}
-nav {
-  background-color: #fd7f1c;
-  padding: 12px;
-  text-align: center;
-  display: flex;
 }
 .buttons {
   display: flex;
