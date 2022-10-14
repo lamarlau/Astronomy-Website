@@ -8,7 +8,7 @@ header {
   padding: 12px;
 }
 nav {
-  background-color: #fd7f1c;
+  background-color: #FFC800;
   padding: 12px;
   text-align: center;
 }
@@ -21,7 +21,7 @@ body {
   text-align: center;
 }
 #square1 {
-  background-color: #b088f9;
+  background-color: #2282ff;
   width: 240px;
   padding: 100px;
   margin-left: 24px;
@@ -29,7 +29,7 @@ body {
   margin-bottom: 16px;
 }
 #square2 {
-  background-color: #7868e6;
+  background-color: #2282ff;
   width: 240px;
   padding: 100px;
   margin-right: 24px;
@@ -37,7 +37,7 @@ body {
   margin-bottom: 16px;
 }
 footer {
-  background-color: cornflowerblue;
+  background-color: #2282ff;
   padding: 12px;
 }
 li {
@@ -113,7 +113,7 @@ a.button:hover {
   padding: 120px;
 }
 .accent {
-  color: #7868e6;
+  color: #2282ff;
   font-weight: bold;
   font-size: 24px;
 }
@@ -125,6 +125,6 @@ a.button:hover {
   }
   .textoverimage {
     position: relative;
-    color: #00BDFF;
+    color: #2282ff;
     top: 4rem;
   }
