@@ -16,6 +16,9 @@ body {
   margin: 0px;
   background-color: azure;
 }
+.earth-image {
+  float: left;
+}
 .square {
   display: inline-block;
   text-align: center;
