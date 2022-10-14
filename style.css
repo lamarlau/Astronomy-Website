@@ -3,7 +3,7 @@ header {
   text-align: center;
   font-size: 48px;
   color: #fff500;
-  background-color: #292105;
+  background-color: #081C36;
   border-style: solid;
   padding: 12px;
 }
@@ -43,7 +43,7 @@ footer {
 li {
   display: inline;
   padding: 12px;
-  color: #292105;
+  color: #081C36;
 }
 a {
   text-decoration: none;
@@ -69,12 +69,12 @@ img {
 p {
   font-size: 24px;
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #292105;
+  color: #081C36;
 }
 h1, h2 {
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
-  color: #292105;
+  color: #081C36;
 }
 .wrapper {
   width: 360px;
@@ -95,7 +95,7 @@ main {
   text-decoration: none;
   margin: 12px;
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #292105;
+  color: #081C36;
 }
 a.button:hover {
   background: #fff500;
@@ -118,10 +118,10 @@ a.button:hover {
   font-size: 24px;
 }
   .navcolor {
- color: #292105;
+ color: #081C36;
   }
   a:hover {
-    color: #292105;
+    color: #081C36;
   }
   .textoverimage {
     position: relative;
