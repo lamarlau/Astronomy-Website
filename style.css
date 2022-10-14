@@ -52,10 +52,8 @@ a {
   text-decoration: none;
 }
 img {
-  width: 480px;
-  float: left;
-  margin-right: 24px;
-  margin-bottom: 24px;
+  max-width: 100%;
+  height: auto;
 }
 .clear {
   clear: both;
