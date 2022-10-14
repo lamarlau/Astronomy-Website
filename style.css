@@ -14,22 +14,9 @@ nav {
   text-align: center;
   display: flex;
 }
-.rectangle {
-  margin: 0;
-  width: 100%;
-  padding: 24px;
-  text-align: center;
-  display: flex;
-}
 body {
   margin: 0px;
   background-color: azure;
-}
-#rectangle1 {
-  background-color: #e55d2a;
-}
-#rectangle2 {
-  background-color: #3b99ed;
 }
 .square {
   display: inline-block;
